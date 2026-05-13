@@ -1,6 +1,6 @@
 # console.log("Hi there, I'm Andrew 👋");
-- Full-stack website developer @ Kindset and previous website design intern @ Anaheim Union High School District
-- Currently learning Computer Architecture, Discrete Math, and Calculus III at De Anza College in Cupertino, California
+- Full-stack website developer @ Western High School's Vietnamese Student Association, former website design intern @ Anaheim Union High School District
+- Currently learning Computer Architecture, Discrete Math, & Calculus III @ De Anza College and General Physics I @ Santa Ana College
 
 <hr>
 
