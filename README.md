@@ -1,7 +1,7 @@
 # console.log("Hi there, I'm Andrew 👋");
-- Full-stack website developer @ Western High School's Vietnamese Student Association, former website design intern @ Anaheim Union High School District
-- Currently learning x86 Assembly Language/Computer Architecture and Discrete Math @ De Anza College and Engineering Physics I @ Santa Ana College
-
+- Full-stack website developer @ Western High School (Aug. 2024 - Present)
+- Computer repair technician @ Anaheim Union High School District (Jun. 2026 - Jul. 2026)
+- Website design intern @ Anaheim Union High School District (Nov. 2023 - May 2024)
 <hr>
 
-![My tech stack](https://skillicons.dev/icons?i=nodejs,vite,react,express,postgres,redis)
+![](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,webpack,react)
